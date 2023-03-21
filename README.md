@@ -20,5 +20,5 @@ I started a new path and am currently learning computer programming at 👨🏻�
 | 9   | [Philosphers]<!-- (../../../42-philosophers) -->     | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   | 25  | [netwhat]<!-- (../../../42-netwhat) --> | 🔒      |
 
 ## 📱 Connect With Me!
-[![LinkedIn](https://www.linkedin.com/in/luis-francisco-morales-maldonado-a64363106/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-francisco-morales-maldonado-a64363106/)
 [![Gmail](https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white)](mailto:luiste49@gmail.com)
