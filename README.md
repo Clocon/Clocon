@@ -4,7 +4,8 @@ My name is Luis and I was previously a Systems Administrator.
 
 I started a new path and am currently learning computer programming at 👨🏻‍💻 [42 Málaga](https://www.42malaga.com/).
 
-## 42cursus Progress 💪🏻
+## 42cursus Progress💪🏻
+[42 Cursus repository](../../Cursus42)
 | Nº  | Project                                     | Status |   | Nº  | Project                                   | Status |   | Nº  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../42-libft)                  | ✅     |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
