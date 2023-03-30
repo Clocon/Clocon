@@ -16,7 +16,7 @@ I started a new path and am currently learning computer programming at 👨🏻�
 | 5B  | so_long              						| 📝	 |	 | 14  | CPP Module 03 								|    🔒 |   | 24  | ft_transcendence               | 🔒      |
 | 5C  |	fractol										| 🔒     |	 | 15  | CPP Module 04                             	|    🔒 |   | 25  | netwhat					   | 🔒      |
 | 6A  | minitalk           							| 🔒     |	 | 16  | CPP Module 05                            	|    🔒 |   |     |                              |         |
-| 6B  | [pipex](../../../Cursus42/tree/main/pipex)                                          | ✅     |	 | 17  | CPP Module 06                             |    🔒 |   |     |                               |         |
+| 6B  | [pipex](../../../pipex-42)                                          | ✅     |	 | 17  | CPP Module 06                             |    🔒 |   |     |                               |         |
 | 7   | push_swap         						 	| 📝     |	 | 18  | CPP Module 07                             	|    🔒 |   |     |                               |         |
 | 8   | minishell 									| 🔒     |	 | 19  | CPP Module 08                             	|    🔒 |   |     |                            	|         |
 | 9   | Philosphers   							 	| 🔒    |	 | 20 | NetPractice                    				|   🔒  |   |     |                          		|         |
