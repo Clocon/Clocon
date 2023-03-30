@@ -4,8 +4,12 @@ My name is Luis and I was previously a Systems Administrator.
 
 I started a new path and am currently learning computer programming at 👨🏻‍💻 [42 Málaga](https://www.42malaga.com/).
 
+<p align="center">
+<img width="450" alt="Screen Shot 2023-03-16 at 6 05 58 PM" src=https://badge.mediaplus.ma/greenbinary/lumorale?1337Badge=off&UM6P=off">
+</p>
+
 ## Cursus42 Progress💪🏻
-[Cursus42 repository](../../../Cursus42)
+
 | Nº  | Project                                     | Status |   | Nº  | Project                                   | Status |   | Nº  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../libft-42)                  | ✅     |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
@@ -20,6 +24,7 @@ I started a new path and am currently learning computer programming at 👨🏻�
 | 7   | push_swap         						 	| 📝     |	 | 18  | CPP Module 07                             	|    🔒 |   |     |                               |         |
 | 8   | minishell 									| 🔒     |	 | 19  | CPP Module 08                             	|    🔒 |   |     |                            	|         |
 | 9   | Philosphers   							 	| 🔒    |	 | 20 | NetPractice                    				|   🔒  |   |     |                          		|         |
+
 
 ## 📱 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-francisco-morales-maldonado-a64363106/)
