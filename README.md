@@ -12,13 +12,13 @@ I started a new path and am currently learning computer programming at 👨🏻�
 
 | Nº  | Project                                     | Status |   | Nº  | Project                                   | Status |   | Nº  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
-| 1   | [Libft](../../../libft-42)                  | ✅     |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
-| 2   | Born2beroot				       			    | ✅     |   | 10B | miniRT                                     	| 🔒     |   | 21  | ft_containers        		   | 🔒      |
-| 3   | [ft_printf](../../../ft_printf-42)          | ✅     |   | 11  | CPP Module 00 							| 🔒     |   | 22A | ft_irc                         | 🔒      |
-| 4   | [get_next_line](../../../get_next_line-42)  | ✅     |   | 12  | CPP Module 01 							| 🔒     |   | 22B | webserv                        | 🔒      |
-| 5A  | FdF                                         | 🔒     |   | 13  | CPP Module 02 							| 🔒     |   | 23  | Inception                      | 🔒      |
-| 5B  | so_long              						| 📝	 |	 | 14  | CPP Module 03 								|    🔒 |   | 24  | ft_transcendence               | 🔒      |
-| 5C  |	fractol										| 🔒     |	 | 15  | CPP Module 04                             	|    🔒 |   | 25  | netwhat					   | 🔒      |
+| 1   | [Libft](../../../libft-42)                  | ✅     |   | 10A | cub3d                                      | 🔒     |   | 21  | ft_containers                     | 🔒      |
+| 2   | Born2beroot				       			    | ✅     |   | 10B | miniRT                                     	| 🔒     |   | 22A  | ft_irc        		   | 🔒      |
+| 3   | [ft_printf](../../../ft_printf-42)          | ✅     |   | 11  | CPP Module 00 							| 🔒     |   | 22B | webserv                         | 🔒      |
+| 4   | [get_next_line](../../../get_next_line-42)  | ✅     |   | 12  | CPP Module 01 							| 🔒     |   | 23 | Inception                        | 🔒      |
+| 5A  | FdF                                         | 🔒     |   | 13  | CPP Module 02 							| 🔒     |   | 24  | ft_transcendence                      | 🔒      |
+| 5B  | so_long              						| 📝	 |	 | 14  | CPP Module 03 								|    🔒 |   | 25  | netwhat               | 🔒      |
+| 5C  |	fractol										| 🔒     |	 | 15  | CPP Module 04                             	|    🔒 |   |   |					   |       |
 | 6A  | minitalk           							| 🔒     |	 | 16  | CPP Module 05                            	|    🔒 |   |     |                              |         |
 | 6B  | [pipex](../../../pipex-42)                                          | ✅     |	 | 17  | CPP Module 06                             |    🔒 |   |     |                               |         |
 | 7   | [push_swap](../../../push_swap-42)         						 	| ✅     |	 | 18  | CPP Module 07                             	|    🔒 |   |     |                               |         |
