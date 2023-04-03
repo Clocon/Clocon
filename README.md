@@ -2,7 +2,7 @@
 
 My name is Luis and I was previously a Systems Administrator.
 
-I started a new path and am currently learning computer programming at 👨🏻‍💻 [42 Málaga](https://www.42malaga.com/).
+I started a new path and I am currently learning computer programming at 👨🏻‍💻 [42 Málaga](https://www.42malaga.com/).
 
 <p align="center">
 <img width="450" alt="Screen Shot 2023-03-16 at 6 05 58 PM" src=https://badge.mediaplus.ma/greenbinary/lumorale?1337Badge=off&UM6P=off">
