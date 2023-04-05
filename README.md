@@ -22,7 +22,10 @@ I started a new path and I am currently learning computer programming at 👨�
 | 6A  | minitalk           							| 🔒     |	 | 14  | CPP Module 03                            	|    🔒 |   | 23 | Inception                  | 🔒      |
 | 6B  | [pipex](../../../pipex-42)                  | ✅     |	| 15  | CPP Module 04                            |    🔒 |   | 24  | ft_transcendence      | 🔒      |
 | 7   | [push_swap](../../../push_swap-42)          | ✅     |	| 16  | CPP Module 05                            	|    🔒 |   | 25  | netwhat      			 | 🔒      |
-                                                                                                                                       
+                                                     
+- ✅ = Done.
+- 📝 = In progress.
+- 🔒 = Locked.
 ## 📱 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-francisco-morales-maldonado-a64363106/)
 [![Gmail](https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white)](mailto:luiste49@gmail.com)
