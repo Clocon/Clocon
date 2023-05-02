@@ -12,8 +12,8 @@ I started a new path and I am currently learning computer programming at 👨�
 
 | Nº  | Project                                     | Status |   | Nº  | Project                                   | Status |   | Nº  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
-| 1   | [Libft](../../../libft-42)                  | ✅     |   | 8   | minishell                                 | 📝     |    | 17  | CPP Module 06                   | 🔒      |
-| 2   | Born2beroot				       			    | ✅     |   | 9   | [Philosphers](../../../philosophers-42)             | 🔒     |   | 18  | CPP Module 07    		  		  | 🔒      |
+| 1   | [Libft](../../../libft-42)                  | ✅     |   | 8   | minishell                      | 📝     |    | 17  | CPP Module 06                   | 🔒      |
+| 2   | Born2beroot				       			    | ✅     |   | 9   | [Philosphers](../../../philosophers-42)   | ✅     |   | 18  | CPP Module 07    		  		  | 🔒      |
 | 3   | [ft_printf](../../../ft_printf-42)          | ✅     |   | 10A | cub3d 		 		    				| 🔒     |   | 19  | CPP Module 08                   | 🔒      |
 | 4   | [get_next_line](../../../get_next_line-42)  | ✅     |   | 10B | miniRT      							| 🔒     |   | 20 | NetPractice      				 |   🔒  |
 | 5A  | FdF                                         | 🔒     |   | 11  | CPP Module 00 								| 🔒     |   | 21  | ft_containers                     | 🔒      |
